@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Page Header</h1>
+  </header>
+
+  <main>
+    <h2>Main Content</h2>
+    <p>This is the main content area.</p>
+  </main>
+</body>
+</html>
+
+
+
+
+header {
+  background-color: #87CEEB;
+  text-align: center;
+}
+
+header h1 {
+  color: white;
+}
+
+main {
+  margin: 20px;
+}
+
